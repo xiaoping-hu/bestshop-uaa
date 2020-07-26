@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "hu.xiaoping.bestshop.uaa",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "hu.xiaoping.bestshop.uaa",
+    "packageFolder": "hu/xiaoping/bestshop/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjdjMmE3OGUzOWFkMzBkMWJhNTc2NjY4ZDllZTViZjI4ZWE0MWM4OTBjZGM0Mzk2OTNhMDU3MzI4MzI5Yzg3YjI0OWRiNmQzOGFiOTE4N2U1NDYyNWRlOTZhYjIzNTQ2ZTRlMGNhYThlMzY4N2QyOGY0ZDIyOTlhMTEwNDZmMmI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1595742646411,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
