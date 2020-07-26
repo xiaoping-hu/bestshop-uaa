@@ -1,0 +1,2 @@
+id;login;password_hash;first_name;last_name;email;image_url;activated;lang_key;created_by;last_modified_by
+5;owner;$2a$10$dzSws65qeIH5TLbERrr.4uPVorUKCUMZ4SK3rX5dBSQsdWCdLGab2;Owner;Bestshop;owner@bestshop;;true;en;system;system
