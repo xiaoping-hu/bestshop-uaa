@@ -35,6 +35,9 @@
     "nativeLanguage": "en",
     "languages": ["en"],
     "blueprints": [],
-    "skipClient": true
+    "skipClient": true,
+    "herokuAppName": "bestshop-uaa",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
